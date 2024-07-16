@@ -1,0 +1,119 @@
+Model,SAR Value
+
+"Head SAR (EU), other apple models"
+Apple iPhone 13,0.763333 W/kg
+Apple iPhone 14,0.763333 W/kg
+Apple iPhone 14 Pro,0.763333 W/kg
+Apple iPhone 15,0.763333 W/kg
+Apple iPhone 15 Plus,0.763333 W/kg
+Apple iPhone 15 Pro,0.763333 W/kg
+Apple iPhone 15 Pro Max,0.763333 W/kg
+Apple iPhone SE (2020),0.763333 W/kg
+Apple iPhone SE (2022),0.763333 W/kg
+Apple iPhone 11 Pro,0.773333 W/kg
+Apple iPhone 12 Pro,0.773333 W/kg
+Apple iPhone 13 Pro,0.773333 W/kg
+Apple iPhone 13 Pro Max,0.773333 W/kg
+
+"Body SAR (EU), other apple models"
+Apple iPhone 14 Plus,0.763333 W/kg
+Apple iPhone 14 Pro,0.763333 W/kg
+Apple iPhone 14 Pro Max,0.763333 W/kg
+Apple iPhone 15,0.763333 W/kg
+Apple iPhone 15 Plus,0.763333 W/kg
+Apple iPhone 15 Pro,0.763333 W/kg
+Apple iPhone 15 Pro Max,0.763333 W/kg
+Apple iPhone 6s,0.763333 W/kg
+Apple iPhone 6s Plus,0.763333 W/kg
+Apple iPad 9.7,0.773333 W/kg
+Apple iPad 9.7 (2018),0.773333 W/kg
+Apple iPad Air (2019),0.773333 W/kg
+Apple iPad Pro,0.773333 W/kg
+
+"Head SAR (USA), other apple models"
+Apple iPhone 14 Plus,1.365 W/kg
+Apple iPhone 12 Pro,1.372 W/kg
+Apple iPhone 12,1.378 W/kg
+Apple iPhone 12 Pro Max,1.39 W/kg
+Apple iPhone X,1.39 W/kg
+Apple iPhone XS Max,1.392 W/kg
+Apple iPhone 15 Pro Max,1.393 W/kg
+Apple iPhone 14,1.395 W/kg
+Apple iPhone 12 mini,1.397 W/kg
+Apple iPhone SE (2022),1.398 W/kg
+Apple iPhone 14 Pro Max,1.4 W/kg
+Apple iPhone 15 Pro,1.4 W/kg
+Apple iPhone XR,1.405 W/kg
+
+"Body SAR (USA), other apple models"
+Apple iPhone 3G,1.29 W/kg
+Apple iPhone 13 mini,1.425 W/kg
+Apple iPhone 15,1.444 W/kg
+Apple iPhone 13 Pro Max,1.45 W/kg
+Apple iPhone 13,1.451 W/kg
+Apple iPhone 14 Pro Max,1.46 W/kg
+Apple iPhone 15 Pro Max,1.462 W/kg
+Apple iPhone 14 Plus,1.477 W/kg
+Apple iPhone 11 Pro,1.478 W/kg
+Apple iPhone 12 mini,1.486 W/kg
+Apple iPhone 15 Plus,1.503 W/kg
+Apple iPhone 14,1.507 W/kg
+Apple iPhone XS Max,1.518 W/kg
+
+"Head SAR (EU), models by other brands"
+Vivo X80 Lite,0.723333 W/kg
+Samsung Galaxy S23,0.746333 W/kg
+Samsung Galaxy S23 Ultra,0.746333 W/kg
+Oukitel C31 Pro,0.760333 W/kg
+Oukitel C32,0.760333 W/kg
+Oukitel C33,0.760333 W/kg
+Apple iPhone 15 Pro Max,0.763333 W/kg
+Google Pixel 7 Pro,0.763333 W/kg
+Xiaomi 12T,0.773333 W/kg
+Google Pixel 7,0.773333 W/kg
+Google Pixel 7a,0.773333 W/kg
+OnePlus 11,0.774333 W/kg
+Xiaomi 12T Pro,0.783333 W/kg
+
+"Body SAR (EU), models by other brands"
+Samsung Galaxy Tab S9 Wi-Fi,0.653333 W/kg
+Samsung Galaxy Tab S9+ Wi-Fi,0.653333 W/kg
+Samsung Galaxy Tab S9 Ultra 5G,0.714333 W/kg
+Ulefone Armor 21,0.730333 W/kg
+Blackview BV9200,0.742333 W/kg
+Blackview BV9300,0.742333 W/kg
+Apple iPhone 15 Pro Max,0.763333 W/kg
+Gigaset GX4,0.768333 W/kg
+Gigaset GX6,0.768333 W/kg
+Xiaomi 12T,0.773333 W/kg
+Fairphone 5,0.773333 W/kg
+Xiaomi 12T Pro,0.783333 W/kg
+Xiaomi Redmi A1+,0.783333 W/kg
+
+"Head SAR (USA), models by other brands"
+Infinix Note 30 X6833B,1.156 W/kg
+Samsung Galaxy Z Flip5,1.17 W/kg
+Google Pixel 7 Pro,1.17 W/kg
+Google Pixel 7,1.19 W/kg
+Samsung Galaxy A24,1.33 W/kg
+TCL 40 XE,1.38 W/kg
+Apple iPhone 15 Pro Max,1.393 W/kg
+OnePlus Nord N30 5G,1.493 W/kg
+OnePlus Nord N300 5G,1.57 W/kg
+OnePlus 11,1.58 W/kg
+Google Pixel 7a,1.58 W/kg
+
+"Body SAR (USA), models by other brands"
+OnePlus Nord N30 5G,1.171 W/kg
+Google Pixel 7 Pro,1.18 W/kg
+Unihertz Jelly Star,1.27 W/kg
+Tecno Spark 10C,1.305 W/kg
+Infinix Hot 30,1.404 W/kg
+Oukitel RT7,1.455 W/kg
+Apple iPhone 15 Pro Max,1.462 W/kg
+Infinix Note 30 X6833B,1.475 W/kg
+OnePlus Nord N300 5G,1.57 W/kg
+OnePlus 11,1.58 W/kg
+Samsung Galaxy S23,1.58 W/kg
+Samsung Galaxy S23 Ultra,1.58 W/kg
+Google Pixel 7a,1.58 W/kg
